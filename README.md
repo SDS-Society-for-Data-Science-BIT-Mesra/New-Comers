@@ -21,7 +21,7 @@ Looking Forward, for learning, contributions and **helping this community** :win
 ---
 
 Hey there!
-I would love to be a part of **SDS< BIT Mesra** :smile:
+I would love to be a part of **SDS,BIT Mesra** :smile:
 kindly add me to the organisation.
 
 ---
