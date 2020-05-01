@@ -33,7 +33,7 @@ The dataset used by contains information on all 802 Pokemon from all Seven Gener
 #### generation: The numbered generation which the Pokemon was first introduced
 #### is_legendary: Denotes if the Pokemon is legendary.
 
-## OUR APROACH FOR THIS PROJECT
+## OUR APPROACH FOR THIS PROJECT
 1).ACQUIRING AND IMPORTING THE DATASET
 
 2).DATA CLEANING
